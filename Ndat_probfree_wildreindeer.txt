@@ -1,0 +1,112 @@
+"Year"	"Ntot"	"pN1"	"pNadf"	"pNadm"	"Area"	"nY"	"nAdf"	"nAdm"	"pRLN"	"nPrRLN"
+"22"	2017	3249	"0.17"	"0.46"	"0.371"	"Setesdal Ryfylke"	22	31	1	"0.796"	43
+"23"	2018	3280	"0.192"	"0.434"	"0.374"	"Setesdal Ryfylke"	53	69	53	"0.76"	133
+"24"	2019	3479	"0.197"	"0.425"	"0.379"	"Setesdal Ryfylke"	32	59	43	"0.806"	108
+"25"	2020	3637	"0.204"	"0.417"	"0.379"	"Setesdal Ryfylke"	55	47	41	"0.717"	104
+"251"	2021	3637	"0.204"	"0.417"	"0.379"	"Setesdal Ryfylke"	29	92	107	"0.719"	166
+"1617"	2017	2000	NA	NA	NA	"Setesdal Austhei"	1	0	1	"0.5"	1
+"2018"	2018	2000	NA	NA	NA	"Setesdal Austhei"	16	8	9	"0.879"	29
+"2019"	2019	2000	NA	NA	NA	"Setesdal Austhei"	11	7	5	"0.739"	17
+"2020"	2020	2000	NA	NA	NA	"Setesdal Austhei"	16	15	11	"0.605"	26
+"2021"	2021	2000	NA	NA	NA	"Setesdal Austhei"	24	35	40	"0.747"	74
+"16171"	2017	60	NA	NA	NA	"Skaulen Etnefjell"	2	0	0	"0"	0
+"20181"	2018	60	NA	NA	NA	"Skaulen Etnefjell"	5	2	4	"0.455"	5
+"20191"	2019	60	NA	NA	NA	"Skaulen Etnefjell"	13	0	0	"0.692"	9
+"20201"	2020	60	NA	NA	NA	"Skaulen Etnefjell"	16	4	6	"0.667"	18
+"20211"	2021	60	NA	NA	NA	"Skaulen Etnefjell"	7	0	2	"0.778"	7
+"16172"	2017	240	NA	NA	NA	"Våmur - Roan"	0	0	0	"0"	0
+"20182"	2018	240	NA	NA	NA	"Våmur - Roan"	6	5	2	"1"	13
+"20192"	2019	240	NA	NA	NA	"Våmur - Roan"	17	1	5	"0.708"	17
+"20202"	2020	240	NA	NA	NA	"Våmur - Roan"	10	6	3	"0.684"	13
+"20212"	2021	240	NA	NA	NA	"Våmur - Roan"	8	8	9	"0.8"	20
+"16173"	2017	500	NA	NA	NA	"Brattefjell - Vindeggen"	2	5	0	"0.5"	4
+"20183"	2018	500	NA	NA	NA	"Brattefjell - Vindeggen"	46	25	12	"0.718"	61
+"20193"	2019	500	NA	NA	NA	"Brattefjell - Vindeggen"	55	13	5	"0.632"	48
+"20203"	2020	500	NA	NA	NA	"Brattefjell - Vindeggen"	57	15	11	"0.729"	62
+"20213"	2021	500	NA	NA	NA	"Brattefjell - Vindeggen"	32	15	5	"0.635"	33
+"16174"	2017	140	NA	NA	NA	"Blefjell"	2	1	1	"0"	0
+"20184"	2018	140	NA	NA	NA	"Blefjell"	8	2	0	"0.7"	7
+"20194"	2019	140	NA	NA	NA	"Blefjell"	9	2	1	"0.923"	12
+"20204"	2020	140	NA	NA	NA	"Blefjell"	7	5	3	"0.75"	12
+"20214"	2021	140	NA	NA	NA	"Blefjell"	7	5	2	"1"	14
+"16175"	2017	700	NA	NA	NA	"Norefjell - Reinsjøfjell"	70	41	46	"0.025"	4
+"20185"	2018	700	NA	NA	NA	"Norefjell - Reinsjøfjell"	63	36	28	"0.701"	89
+"20195"	2019	700	NA	NA	NA	"Norefjell - Reinsjøfjell"	35	24	11	"0.686"	48
+"20205"	2020	700	NA	NA	NA	"Norefjell - Reinsjøfjell"	28	21	25	"0.595"	44
+"20215"	2021	700	NA	NA	NA	"Norefjell - Reinsjøfjell"	26	18	22	"0.667"	44
+"16176"	2017	12	NA	NA	NA	"Oksenhalvøya"	0	0	0	"0"	0
+"20186"	2018	12	NA	NA	NA	"Oksenhalvøya"	0	0	0	"0"	0
+"20196"	2019	12	NA	NA	NA	"Oksenhalvøya"	2	0	0	"0"	0
+"20206"	2020	12	NA	NA	NA	"Oksenhalvøya"	0	0	0	"0"	0
+"20216"	2021	12	NA	NA	NA	"Oksenhalvøya"	0	0	0	"0"	0
+"16177"	2017	440	NA	NA	NA	"Fjellheimen"	9	6	15	"0.233"	7
+"20187"	2018	440	NA	NA	NA	"Fjellheimen"	12	19	14	"0.822"	37
+"20197"	2019	440	NA	NA	NA	"Fjellheimen"	30	19	11	"0.733"	44
+"20207"	2020	440	NA	NA	NA	"Fjellheimen"	3	10	5	"0.944"	17
+"20217"	2021	440	NA	NA	NA	"Fjellheimen"	0	2	9	"0.909"	10
+"16178"	2017	120	NA	NA	NA	"Lærdal - Årdal"	0	0	3	"0.8"	4
+"20188"	2018	120	NA	NA	NA	"Lærdal - Årdal"	2	0	11	"0.769"	10
+"20198"	2019	120	NA	NA	NA	"Lærdal - Årdal"	0	0	8	"0.625"	5
+"20208"	2020	120	NA	NA	NA	"Lærdal - Årdal"	0	0	13	"0.769"	10
+"20218"	2021	120	NA	NA	NA	"Lærdal - Årdal"	0	0	0	"0"	0
+"16179"	2017	400	NA	NA	NA	"Vest-Jotunheimen"	0	0	3	"0"	0
+"20189"	2018	400	NA	NA	NA	"Vest-Jotunheimen"	3	0	37	"0.85"	34
+"20199"	2019	400	NA	NA	NA	"Vest-Jotunheimen"	6	4	16	"0.731"	19
+"20209"	2020	400	NA	NA	NA	"Vest-Jotunheimen"	5	6	7	"0.667"	12
+"20219"	2021	400	NA	NA	NA	"Vest-Jotunheimen"	2	0	8	"1"	10
+"161710"	2017	125	NA	NA	NA	"Sunnfjord"	5	5	1	"0"	0
+"201810"	2018	125	NA	NA	NA	"Sunnfjord"	1	3	3	"1"	7
+"201910"	2019	125	NA	NA	NA	"Sunnfjord"	4	1	2	"0.875"	7
+"202010"	2020	125	NA	NA	NA	"Sunnfjord"	0	0	0	"0"	0
+"202110"	2021	125	NA	NA	NA	"Sunnfjord"	1	0	0	"1"	1
+"161711"	2017	100	NA	NA	NA	"Førdefjella"	5	0	1	"0"	0
+"201811"	2018	100	NA	NA	NA	"Førdefjella"	2	2	2	"0.833"	5
+"201911"	2019	100	NA	NA	NA	"Førdefjella"	3	0	2	"0.4"	2
+"202011"	2020	100	NA	NA	NA	"Førdefjella"	0	1	1	"0"	0
+"202111"	2021	100	NA	NA	NA	"Førdefjella"	2	1	0	"0.667"	2
+"161712"	2017	55	NA	NA	NA	"Svartebotnen"	3	1	0	"0"	0
+"201812"	2018	55	NA	NA	NA	"Svartebotnen"	0	0	0	"0"	0
+"201912"	2019	55	NA	NA	NA	"Svartebotnen"	5	3	2	"0.727"	8
+"202012"	2020	55	NA	NA	NA	"Svartebotnen"	4	0	3	"0.714"	5
+"202112"	2021	55	NA	NA	NA	"Svartebotnen"	2	0	1	"0.75"	3
+"161713"	2017	2900	NA	NA	NA	"Reinheimen-Breheimen"	0	0	3	"0"	0
+"201813"	2018	2900	NA	NA	NA	"Reinheimen-Breheimen"	182	168	162	"0.783"	405
+"201913"	2019	2900	NA	NA	NA	"Reinheimen-Breheimen"	246	94	94	"0.674"	293
+"202013"	2020	2900	NA	NA	NA	"Reinheimen-Breheimen"	125	67	110	"0.672"	203
+"202113"	2021	2900	NA	NA	NA	"Reinheimen-Breheimen"	166	158	145	"0.696"	327
+"161714"	2017	3468	"0.179"	"0.479"	"0.341"	"Snøhetta"	2	6	3	"0.167"	2
+"201814"	2018	3548	"0.217"	"0.472"	"0.31"	"Snøhetta"	136	165	102	"0.739"	300
+"201914"	2019	3641	"0.216"	"0.468"	"0.316"	"Snøhetta"	174	116	72	"0.681"	248
+"202014"	2020	3840	"0.202"	"0.456"	"0.342"	"Snøhetta"	130	191	107	"0.585"	252
+"202114"	2021	3840	"0.202"	"0.456"	"0.342"	"Snøhetta"	64	183	114	"0.56"	205
+"161715"	2017	3783	"0.128"	"0.567"	"0.306"	"Rondane"	91	9	7	"0.598"	67
+"201815"	2018	4058	"0.205"	"0.518"	"0.277"	"Rondane"	103	51	58	"0.74"	159
+"201915"	2019	3902	"0.201"	"0.516"	"0.283"	"Rondane"	133	46	49	"0.711"	162
+"202015"	2020	4028	"0.105"	"0.567"	"0.328"	"Rondane"	141	57	63	"0.536"	141
+"202115"	2021	4028	"0.105"	"0.567"	"0.328"	"Rondane"	49	62	68	"0.625"	115
+"161716"	2017	800	NA	NA	NA	"Sølnkletten"	7	0	3	"0.1"	1
+"201816"	2018	800	NA	NA	NA	"Sølnkletten"	56	26	18	"0.782"	79
+"201916"	2019	800	NA	NA	NA	"Sølnkletten"	55	15	14	"0.726"	61
+"202016"	2020	800	NA	NA	NA	"Sølnkletten"	23	1	18	"0.651"	28
+"202116"	2021	800	NA	NA	NA	"Sølnkletten"	21	9	44	"0.743"	55
+"161717"	2017	2000	NA	NA	NA	"Tolga Østfjell"	0	0	1	"0"	0
+"201817"	2018	2000	NA	NA	NA	"Tolga Østfjell"	2	0	17	"0.895"	17
+"201917"	2019	2000	NA	NA	NA	"Tolga Østfjell"	0	0	6	"0.833"	5
+"202017"	2020	2000	NA	NA	NA	"Tolga Østfjell"	1	0	14	"0.533"	8
+"202117"	2021	2000	NA	NA	NA	"Tolga Østfjell"	2	1	24	"0.815"	22
+"161718"	2017	1855	"0.189"	"0.505"	"0.306"	"Forollhogna"	188	100	54	"0.017"	6
+"201818"	2018	1693	"0.159"	"0.507"	"0.334"	"Forollhogna"	45	30	18	"0.821"	78
+"201918"	2019	1534	"0.203"	"0.446"	"0.351"	"Forollhogna"	43	19	14	"0.566"	43
+"202018"	2020	1696	"0.204"	"0.452"	"0.344"	"Forollhogna"	40	28	40	"0.676"	73
+"202118"	2021	1696	"0.204"	"0.452"	"0.344"	"Forollhogna"	78	44	55	"0.571"	101
+"161719"	2017	1500	NA	NA	NA	"Knutshø"	67	6	4	"0.039"	3
+"201819"	2018	1500	NA	NA	NA	"Knutshø"	33	18	29	"0.7"	56
+"201919"	2019	1500	NA	NA	NA	"Knutshø"	36	25	32	"0.699"	65
+"202019"	2020	1500	NA	NA	NA	"Knutshø"	77	36	55	"0.601"	101
+"202119"	2021	1500	NA	NA	NA	"Knutshø"	24	37	42	"0.631"	65
+"1"	2016	417	"0.194"	"0.444"	"0.362"	"Nordfjella zone 2"	6	15	19	"0.92"	37
+"2"	2017	442	"0.17"	"0.482"	"0.348"	"Nordfjella zone 2"	5	19	20	"0.93"	41
+"3"	2018	504	"0.243"	"0.442"	"0.315"	"Nordfjella zone 2"	13	32	77	"0.975"	119
+"4"	2019	494	"0.251"	"0.48"	"0.269"	"Nordfjella zone 2"	17	20	68	"0.82"	86
+"5"	2020	448	"0.216"	"0.525"	"0.259"	"Nordfjella zone 2"	11	39	34	"0.895"	77
+"6"	2021	444	"0.218"	"0.55"	"0.232"	"Nordfjella zone 2"	5	13	13	"0.968"	30
